@@ -1,0 +1,23 @@
+{
+  "name": "twilio-testing",
+  "version": "1.0.0",
+  "description": "Testing Twilio with Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "twilio": "^3.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmoga/twilio-testing.git"
+  },
+  "author": "Matthew Mogavero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmoga/twilio-testing/issues"
+  },
+  "homepage": "https://github.com/mmoga/twilio-testing#readme"
+}
